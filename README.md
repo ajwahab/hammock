@@ -5,7 +5,7 @@
 - Rigging between the ridgepole and the rest of the suspension transfers no appreciable moment (simply supported).
 - Longer ridgepoles allow for shallower hammock suspension angles (30º is ideal). 
 - Shallower hammock suspension angles increase the buckling stress in ridgepole.
-- Pre-drill holes for eye screws (15/65" for 3/8" screw).
+- Pre-drill holes for eye screws (15/64" for 3/8" screw).
 - Anchor hitches everywhere.
 - Ringbolt hitching around suspension joint rings optional but helps cord used to transfer center lateral load along neutral axis of ridgepole.
   
